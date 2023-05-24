@@ -1,4 +1,4 @@
-from db import db
+from src import db
 
 class Example(db.Model):
   __tablename__ = 'example'
