@@ -24,7 +24,6 @@ venv/
 *.env
 
 # Log files
-logs/
 *.log
 
 # DB files
